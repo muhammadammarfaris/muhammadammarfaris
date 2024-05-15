@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/a5/3b/c3/a53bc3eb7390edcb1711945f882a92cc.gif)
+
 <h1 align="center">Hi 👋, I'm Muhammad Ammar Faris Fauzi</h1>
 <h3 align="center">A passionate mobile frontend developer from Indonesia</h3>
 <img align="right" alt="Coding' widht="400" src="https://media.tenor.com/A-xepNszV9YAAAAj/ai-bot.gif"
