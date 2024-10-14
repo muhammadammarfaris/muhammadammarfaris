@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **farisfauzi444@gmail.com**
 
-- ⚡ Fun fact **I think I'm handsome**
+- ⚡ Fun fact **I think I'm so funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
