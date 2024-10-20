@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **farisfauzi444@gmail.com**
 
-- ⚡ Fun fact **I think I'm so funny**
+- ⚡ Fun fact **I think I'm so ramdom**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
