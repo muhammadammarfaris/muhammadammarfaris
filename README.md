@@ -1,9 +1,6 @@
 <hr>
 <p align="center">
-   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
-   <br>
-   <i>You miss 100% of the shots you don't take.</i>
-   <br>
+<h3>Connect With Me<h3>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/ammar-faris-fauzi-339260295/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:farisfauzi444@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
