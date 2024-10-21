@@ -8,6 +8,6 @@
 </div>
 <p align="center">
   <a href="https://github.com/muhammadammarfaris">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RResabala2015&&theme=tokyonight" alt="muhammadammarfaris" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadammarfaris&&theme=tokyonight" alt="muhammadammarfaris" />
   </a>
 </p>
