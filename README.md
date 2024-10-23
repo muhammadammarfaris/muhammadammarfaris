@@ -6,26 +6,26 @@
   <a target="_blank" href="https://www.instagram.com/onekebabplease._/?utm_source=ig_web_button_share_sheet"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 </p>
 
-<h3 align="left" style="padding-top: 20px;">~Languages~</h3>
+<h3 align="left">~Languages~</h3>
 
 ![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<h3 align="left" style="padding-top: 20px;">~Framework~</h3>
+<h3 align="left">~Framework~</h3>
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
 
-<h3 align="left" style="padding-top: 20px;">~Tools~</h3>
+<h3 align="left">~Tools~</h3>
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)![ChatGpt](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-<div align="center" style="padding-top: 20px;">
+<div align="center">
   <a href="https://github.com/muhammadammarfaris">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadammarfaris&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muhammadammarfaris"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadammarfaris&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muhammadammarfaris"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadammarfaris&&theme=tokyonight" alt="muhammadammarfaris"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=muhammadammarfaris&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muhammadammarfaris"/>
   </a>
 </div>
-<p align="center" style="padding-top: 20px;">
-  <a href="https://github.com/muhammadammarfaris">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadammarfaris&&theme=tokyonight" alt="muhammadammarfaris" />
-  </a>
+
+<hr>
+<p align="center">
+  ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 </p>
