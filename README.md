@@ -27,5 +27,6 @@
 
 <hr>
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+  
+  [![](https://visitcount.itsvg.in/api?id=muhammadammarfaris&icon=0&color=12)](https://visitcount.itsvg.in)
 </p>
