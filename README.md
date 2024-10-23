@@ -3,7 +3,7 @@
     <h1 align="center">✩&emsp;Ammar Faris&emsp;✩</h1>
 </p>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello;Im+Muhammad+Ammar+Faris+Fauzi!&font=Fira%20Code&color=%23D62F79&center=true&width=400&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello;Im+Muhammad+Ammar+Faris+Fauzi!&font=Fira%20Code&color=%23D62F79&center=true&width=400&height=70">
 </p>
 <br>
 
