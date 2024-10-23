@@ -28,5 +28,5 @@
 <hr>
 <p align="center">
   
-  [![](https://visitcount.itsvg.in/api?id=muhammadammarfaris&icon=0&color=1)](https://visitcount.itsvg.in)
+  [![](api?id=muhammadammarfaris&icon=0&color=1)](https://visitcount.itsvg.in)
 </p>
