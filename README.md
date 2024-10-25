@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20there;Im+Muhammad+Ammar+Faris+Fauzi;and%20I%27m%20a%20front%20end%20mobile%20developer&font=Fira%20Code&color=%23D62F79&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20there;Im+Muhammad+Ammar+Faris+Fauzi;and%20I%27m%20a%20front%20end%20mobile%20developer&font=Fira%20Code&color=%23D62F79&center=true&width=500&height=20">
 </p>
 <br>
 
