@@ -3,6 +3,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello;Im+Muhammad+Ammar+Faris+Fauzi&font=Fira%20Code&color=%23D62F79&center=true&width=400&height=100">
 </p>
 <br>
+### Now Playing — Spotify 🎧
+<p>
+<a href=”https://spotify-github-profile.muhammadammarfaris.com/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&redirect=true">
+<img src=”https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
+</a>
+</p>
 
 <hr>
 <p align="center">
