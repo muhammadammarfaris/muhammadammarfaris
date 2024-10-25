@@ -5,11 +5,11 @@
 <br>
 ### Now Playing — Spotify 🎧
 <p>
-<a href=”https://spotify-github-profile.muhammadammarfaris.com/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&redirect=true">
-<img src=”https://spotify-github-profile.muhammadammarfaris.app/api/view.svg?uid=ddb46c9ec55843809822c29d5b5d3ca2
-&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
+<a href="https://github.com/muhammadammarfaris/spotify-github-profile">
+<img src="https://spotify-github-profile.muhammadammarfaris.com/api/view?uid=31zc2a4hozn3awzskii3xce6b5xq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
 </a>
-</p>	
+</p>
+
 
 <hr>
 <p align="center">
