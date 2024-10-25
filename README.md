@@ -6,23 +6,23 @@
 
 <hr>
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/ammar-faris-fauzi-339260295/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-  <a target="_blank" href="mailto:farisfauzi444@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-  <a target="_blank" href="https://dribbble.com/Shion12"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"></img></a>
-  <a target="_blank" href="https://www.instagram.com/onekebabplease._/?utm_source=ig_web_button_share_sheet"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+  <a target="_blank" href="https://www.linkedin.com/in/ammar-faris-fauzi-339260295/"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+  <a target="_blank" href="mailto:farisfauzi444@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+  <a target="_blank" href="https://dribbble.com/Shion12"><img src="https://img.shields.io/badge/Dribbble-000000?style=for-the-badge&logo=dribbble&logoColor=white"></a>
+  <a target="_blank" href="https://www.instagram.com/onekebabplease._/?utm_source=ig_web_button_share_sheet"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 <h5 align="left">~Languages~</h5>
 
-![CSS](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![CSS](https://img.shields.io/badge/css3-000000.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-000000.svg?style=for-the-badge&logo=html5&logoColor=white)![Java](https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <h5 align="left">~Framework~</h5>
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=white)![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=white) 
 
 <h5 align="left">~Tools~</h5>
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)![ChatGpt](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)![ChatGpt](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=white)![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)![Canva](https://img.shields.io/badge/Canva-000000.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 <div align="center">
   <a href="https://github.com/muhammadammarfaris">
