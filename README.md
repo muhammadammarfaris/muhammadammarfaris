@@ -4,8 +4,6 @@
 </p>
 <br>
 
-[![Spotify](https://novatorem-muhammadammarfaris.vercel.app/api/spotify?background_color=0D1117)](https://open.spotify.com/playlist/61qSRhLcz710EsH10DobVh?si=cf664ca823f941d0)
-
 <hr>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/ammar-faris-fauzi-339260295/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
