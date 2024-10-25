@@ -1,9 +1,9 @@
 <br>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20there;Im+Muhammad+Ammar+Faris+Fauzi&font=Fira%20Code&color=%23D62F79&center=true&width=400&height=100>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20there;Im+Muhammad+Ammar+Faris+Fauzi&font=Fira%20Code&color=%23D62F79&center=true&width=400&height=100">
 </p>
 <br>
-        
+
 <hr>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/ammar-faris-fauzi-339260295/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
