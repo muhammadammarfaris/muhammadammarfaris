@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=HeyThere;Im+Muhammad+Ammar+Faris+Fauzi&font=Fira%20Code&color=%23D62F79&center=true&width=400&height=100">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi here;Im+Muhammad+Ammar+Faris+Fauzi&font=Fira%20Code&color=%23D62F79&center=true&width=400&height=100">
 </p>
 <br>
 
