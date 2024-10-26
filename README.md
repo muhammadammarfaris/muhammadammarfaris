@@ -18,14 +18,11 @@
 
 <h5 align="left">~Framework~</h5>
 
-<h5 align="left">~Framework~</h5>
-
 <div style="display: flex; align-items: center;">
     <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=02569B">
     <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FF2D20">
-    <img src="https://media.giphy.com/media/l3ZrVw8NkxIly/giphy.gif" width="100" height="100" alt="gif" style="margin-left: auto;"/>
+    <img src="https://media.giphy.com/media/l3ZrVw8NkxIly/giphy.gif" width="100" height="100" alt="gif" style="margin-left: 20px; margin-right: auto;"/>
 </div>
-
 
 <h5 align="left">~Tools~</h5>
 
