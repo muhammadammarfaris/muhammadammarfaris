@@ -5,9 +5,9 @@
 <br>
 
 <hr>
-<p align="center">
+<p align="center">\
+<img src="https://media.tenor.com/9JOXyFRaUfcAAAAi/zekrom-pokemon.gif" width="50" height="50" alt="zekrom-gif" style="vertical-align: middle;"/>
   <a target="_blank" href="https://www.linkedin.com/in/ammar-faris-fauzi-339260295/"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=Linkedin&logoColor=0077B5"></a>
-  <img src="https://media.tenor.com/9JOXyFRaUfcAAAAi/zekrom-pokemon.gif" width="50" height="50" alt="zekrom-gif" style="vertical-align: middle;"/>
   <a target="_blank" href="mailto:farisfauzi444@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=D14836"></a>
   <a target="_blank" href="https://dribbble.com/Shion12"><img src="https://img.shields.io/badge/Dribbble-000000?style=for-the-badge&logo=dribbble&logoColor=EA4C89"></a>
   <a target="_blank" href="https://www.instagram.com/onekebabplease._/?utm_source=ig_web_button_share_sheet"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F"></a>
