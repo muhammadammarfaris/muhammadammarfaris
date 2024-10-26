@@ -21,8 +21,9 @@
 <div style="display: flex; align-items: center;">
     <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=02569B">
     <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FF2D20">
-    <img src="https://https://media.tenor.com/8DBL8P0pmgYAAAAi/purple-bat.gif" width="100" height="100" alt="gif" style="margin-right: 400px; margin-right: auto;"/>
+    <img src="https://media.tenor.com/8DBL8P0pmgYAAAAi/purple-bat.gif" width="100" height="100" alt="gif" style="margin-left: auto;"/>
 </div>
+
 
 <h5 align="left">~Tools~</h5>
 
