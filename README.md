@@ -10,7 +10,6 @@
   <a target="_blank" href="mailto:farisfauzi444@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=Gmail&logoColor=D14836"></a>
   <a target="_blank" href="https://dribbble.com/Shion12"><img src="https://img.shields.io/badge/Dribbble-000000?style=for-the-badge&logo=dribbble&logoColor=EA4C89"></a>
   <a target="_blank" href="https://www.instagram.com/onekebabplease._/?utm_source=ig_web_button_share_sheet"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F"></a>
-  <img src="https://media.giphy.com/media/l3ZrVw8NkxIly/giphy.gif" width="60" height="60" alt="gif"/>
 </p>
 
 <h5 align="left">~Languages~</h5>
@@ -19,7 +18,12 @@
 
 <h5 align="left">~Framework~</h5>
 
-![Flutter](https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=02569B)![Laravel](https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FF2D20) 
+<div style="display: flex; align-items: center;">
+    <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=02569B">
+    <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FF2D20">
+    <img src="https://media.giphy.com/media/l3ZrVw8NkxIly/giphy.gif" width="60" height="60" alt="gif" style="margin-left: 10px;"/>
+</div>
+
 
 <h5 align="left">~Tools~</h5>
 
