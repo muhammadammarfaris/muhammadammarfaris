@@ -8,11 +8,7 @@
 <p align="center">
 <img src="https://media.tenor.com/9nBgEcu8e2IAAAAi/charizard-pokemon.gif" width="60" height="60" alt="zekrom-gif" style="vertical-align: middle;"/>
   <a target="_blank" href="https://www.linkedin.com/in/ammar-faris-fauzi-339260295/"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=Linkedin&logoColor=0077B5"></a>
-  
-  <a target="_blank" href="mailto:farisfauzi444@gmail.com">
-    <img src="https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify&logoColor=1ED760">
-  </a>
-
+  <a target="_blank" href="mailto:farisfauzi444@gmail.com"><img src="https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify&logoColor=1ED760"></a>
   <a target="_blank" href="https://dribbble.com/Shion12"><img src="https://img.shields.io/badge/Dribbble-000000?style=for-the-badge&logo=dribbble&logoColor=EA4C89"></a>
   <a target="_blank" href="https://www.instagram.com/onekebabplease._/?utm_source=ig_web_button_share_sheet"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F"></a>
   <img src="https://media.tenor.com/YvAZ_CtrtlMAAAAi/espeon.gif" width="50" height="50" alt="gif" style="vertical-align: middle;"/>
