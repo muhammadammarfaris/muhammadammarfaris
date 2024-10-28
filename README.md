@@ -29,8 +29,6 @@
 
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)![ChatGpt](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=74aa9c)![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)![Canva](https://img.shields.io/badge/Canva-000000.svg?style=for-the-badge&logo=Canva&logoColor=00C4CC)
 
-<h5 align="left">~Stat~</h5>
-
 <div align="center">
   <a href="https://github.com/muhammadammarfaris">
     <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadammarfaris&&theme=tokyonight" alt="muhammadammarfaris"/>
