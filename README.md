@@ -14,7 +14,7 @@
   <img src="https://media.tenor.com/YvAZ_CtrtlMAAAAi/espeon.gif" width="50" height="50" alt="gif" style="vertical-align: middle;"/>
 </p>
 
-<h5 align="left">~Languages~</h5>
+<h5 align="left">~Language~</h5>
 
 ![CSS](https://img.shields.io/badge/css3-000000.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)![JavaScript](https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-000000.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)![Java](https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00)
 
