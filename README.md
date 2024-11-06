@@ -28,9 +28,13 @@
 
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)![ChatGpt](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=74aa9c)![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)![Canva](https://img.shields.io/badge/Canva-000000.svg?style=for-the-badge&logo=Canva&logoColor=00C4CC)
 
-[![Ammar Faris GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=muhammadammarfaris&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/muhammadammarfaris/github-readme-stats#gh-dark-mode-only)
+<div align="center">
+  <a href="https://github.com/muhammadammarfaris">
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadammarfaris&&theme=tokyonight" alt="muhammadammarfaris"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=muhammadammarfaris&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muhammadammarfaris"/>
+  </a>
+</div>
 
-[![Ammar Faris GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=muhammadammarfaris&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/muhammadammarfaris/github-readme-stats#gh-light-mode-only)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
