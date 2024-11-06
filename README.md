@@ -21,6 +21,8 @@
 
 <h3 align="left">Languages</h3>
 
+<br> 
+
 <p>
   <img src="https://img.shields.io/badge/css3-000000.svg?style=for-the-badge&logo=css3&logoColor=%231572B6">
   <img src="https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
@@ -32,6 +34,8 @@
 
 <h3 align="left">Frameworks</h3>
 
+<br> 
+
 <p>
   <img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=02569B">
   <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FF2D20">
@@ -40,6 +44,8 @@
 <br> 
 
 <h3 align="left">Tools</h3>
+
+<br> 
 
 <p>
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E">
