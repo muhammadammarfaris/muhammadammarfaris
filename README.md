@@ -1,11 +1,15 @@
-<br> <!-- Tambahkan spasi vertikal antar elemen -->
+<br> 
+
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20there;I'm+Muhammad+Ammar+Faris+Fauzi;A+Front-End+Mobile+Developer&font=Fira%20Code&color=%23D62F79&center=true&width=500&height=30">
 </p>
-<br> <!-- Tambahkan spasi vertikal antar elemen -->
+
+<br>
 
 <hr>
-<br> <!-- Tambahkan spasi vertikal antar elemen -->
+
+<br> 
+
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/ammar-faris-fauzi-339260295/"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=Linkedin&logoColor=0077B5"></a>
   <a target="_blank" href="https://open.spotify.com/user/31zc2a4hozn3awzskii3xce6b5xq?si=a64484a08ffb4cea"><img src="https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify&logoColor=1ED760"></a>
@@ -13,8 +17,7 @@
   <a target="_blank" href="https://www.instagram.com/onekebabplease._/?utm_source=ig_web_button_share_sheet"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F"></a>
 </p>
 
-
-<br> <!-- Tambahkan spasi vertikal antar elemen -->
+<br> 
 
 <h3 align="left">Languages</h3>
 
@@ -25,7 +28,7 @@
   <img src="https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00">
 </p>
 
-<br> <!-- Tambahkan spasi vertikal antar elemen -->
+<br> 
 
 <h3 align="left">Frameworks</h3>
 
@@ -34,7 +37,7 @@
   <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel&logoColor=FF2D20">
 </p>
 
-<br> <!-- Tambahkan spasi vertikal antar elemen -->
+<br> 
 
 <h3 align="left">Tools</h3>
 
@@ -45,7 +48,7 @@
   <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=Canva&logoColor=00C4CC">
 </p>
 
-<br> <!-- Tambahkan spasi vertikal antar elemen -->
+<br> 
 
 <div align="center">
   <a href="https://github.com/muhammadammarfaris">
@@ -54,8 +57,7 @@
   </a>
 </div>
 
-
-<br> <!-- Tambahkan spasi vertikal antar elemen -->
+<br> 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
