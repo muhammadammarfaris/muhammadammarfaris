@@ -56,6 +56,10 @@
 
 <br> 
 
+<h3 align="left">My Github Stats</h3>
+
+<br> 
+
 <div align="center">
   <a href="https://github.com/muhammadammarfaris">
     <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadammarfaris&&theme=tokyonight" alt="muhammadammarfaris"/>
