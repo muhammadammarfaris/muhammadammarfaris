@@ -2,8 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20there;I'm+Muhammad+Ammar+Faris+Fauzi;A+Front-End+Mobile+Developer&font=Fira%20Code&color=%23D62F79&center=true&width=500&height=30">
 </p>
 
-<br> <!-- Tambahkan spasi vertikal antar elemen -->
-
 <hr>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/ammar-faris-fauzi-339260295/"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=Linkedin&logoColor=0077B5"></a>
