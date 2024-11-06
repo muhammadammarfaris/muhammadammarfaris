@@ -50,10 +50,10 @@
 
 <br> 
 
-<div align="center">
+<div align="center" style="border: 2px solid #1f1f1f; border-radius: 10px; padding: 10px; display: inline-block;">
   <a href="https://github.com/muhammadammarfaris">
-    <img height="168em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadammarfaris&&theme=tokyonight" alt="muhammadammarfaris"/>
-    <img height="168em" src="https://github-readme-stats.vercel.app/api?username=muhammadammarfaris&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muhammadammarfaris"/>
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadammarfaris&&theme=tokyonight" alt="muhammadammarfaris"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=muhammadammarfaris&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muhammadammarfaris"/>
   </a>
 </div>
 
