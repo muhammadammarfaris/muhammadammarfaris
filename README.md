@@ -28,12 +28,11 @@
 
 ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E)![ChatGpt](https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=74aa9c)![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)![Canva](https://img.shields.io/badge/Canva-000000.svg?style=for-the-badge&logo=Canva&logoColor=00C4CC)
 
-<div align="center">
-  <a href="https://github.com/muhammadammarfaris">
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadammarfaris&&theme=tokyonight" alt="muhammadammarfaris"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=muhammadammarfaris&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muhammadammarfaris"/>
-  </a>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadammarfaris&show_icons=true&locale=en&layout=compact" alt="muhammadammarfaris" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadammarfaris&show_icons=true&locale=en" alt="muhammadammarfaris" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadammarfaris&" alt="muhammadammarfaris" /></p>
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
