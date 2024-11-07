@@ -8,7 +8,6 @@
 
 <hr>
 
-[![Spotify](https://novatorem-muhammadammarfaris.vercel.app/api/spotify?background_color=0D1117)](https://open.spotify.com/playlist/10U7jhB0y0cpt2oCEdnHZm?si=8567d9ae47c841e2)
 
 <br> 
 
