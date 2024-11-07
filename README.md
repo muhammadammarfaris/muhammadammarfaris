@@ -8,7 +8,7 @@
 
 <hr>
 
-[![spotify-github-profile](https://spotify-github-profile.muhammadammarfaris.com/api/view?uid=31zc2a4hozn3awzskii3xce6b5xq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zc2a4hozn3awzskii3xce6b5xq&redirect=true)
+[![Spotify](https://novatorem-muhammadammarfaris.vercel.app/api/spotify?background_color=0D1117)](https://open.spotify.com/playlist/10U7jhB0y0cpt2oCEdnHZm?si=8567d9ae47c841e2)
 
 <br> 
 
