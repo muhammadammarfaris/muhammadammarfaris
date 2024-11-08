@@ -7,8 +7,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,dart,laravel,flutter,vscode,figma,github,mint)](https://skillicons.dev)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadammarfaris&theme=codeSTACKr&no-frame=false&no-bg=true&margin-w=1" alt="GitHub Trophy" width="500"/>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammadammarfaris&theme=codeSTACKr&no-frame=false&no-bg=true&margin-w=1" alt="GitHub Trophy" width="800"/>
 </p>
 
 <table align="center" border="1" cellpadding="10" cellspacing="0">
