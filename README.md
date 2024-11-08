@@ -8,8 +8,6 @@
 
 <hr>
 
-[![spotify-github-profile](https://spotify-github-profile.muhammadammarfaris.com/api/view?uid=31zc2a4hozn3awzskii3xce6b5xq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/muhammadammarfaris/spotify-github-profile)
-
 <br> 
 
 <p align="center">
