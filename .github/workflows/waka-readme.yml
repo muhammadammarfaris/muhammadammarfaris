@@ -1,26 +1,36 @@
 name: Waka Readme
 
 on:
-  # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
 
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
+
     steps:
-        # this action name
-      - uses: anmol098/waka-readme-stats@master
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Update WakaTime README Stats
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          DEBUG_LOGGING: false
+          DEBUG_LOGGING: true
           SHOW_SHORT_INFO: false
           SHOW_TIMEZONE: false
           SHOW_LOC_CHART: false
           SHOW_PROFILE_VIEWS: false
           SHOW_LINES_OF_CODE: true
           SHOW_PROJECTS: false
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "your-email@example.com"
+          git config --local user.name "GitHub Actions"
+          git add README.md
+          git commit -m "Update README with WakaTime stats" || echo "No changes to commit"
+          git push
