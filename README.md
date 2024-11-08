@@ -1,3 +1,10 @@
+<br>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%20there;I'm+Muhammad+Ammar+Faris+Fauzi;A+Front-End+Mobile+Developer&font=Fira%20Code&color=%23D62F79&center=true&width=500&height=30">
+</p>
+
+<hr>
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,dart,laravel,flutter,vscode,figma,github,mint)](https://skillicons.dev)
 
 <table align="center" border="1" cellpadding="10" cellspacing="0">
