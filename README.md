@@ -15,12 +15,14 @@
 
 <h3 align="left">Languages</h3>
 <br>
+<table align="center" border="1" cellpadding="10" cellspacing="0">
 <p>
   <img src="https://img.shields.io/badge/css3-000000.svg?style=for-the-badge&logo=css3&logoColor=%231572B6">
   <img src="https://img.shields.io/badge/javascript-000000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
   <img src="https://img.shields.io/badge/html5-000000.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26">
   <img src="https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00">
 </p>
+  </table>
 <br>
 
 <h3 align="left">Frameworks</h3>
