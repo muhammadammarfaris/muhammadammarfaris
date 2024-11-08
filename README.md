@@ -6,10 +6,11 @@
 <hr>
 
 <br>
-
 <div align="center">
   <img src="https://media1.tenor.com/m/5EnGWzMZkVsAAAAC/studying-reading.gif/?username=muhammadammarfaris&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadammarfaris" width="800" />
 </div>
+
+<br>
 
 <hr>
 
