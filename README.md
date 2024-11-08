@@ -1,9 +1,9 @@
 <p align="center">
   <!-- Ikon Pertama -->
-  <img src="https://raw.githubusercontent.com/username/repository/branch/assets/icon1.png" alt="icon1" height="100px"/>
+  <img src="https://raw.githubusercontent.com/username/repository/branch/assets/icon1.svg" alt="icon1" height="100px"/>
 
   <!-- Ikon Kedua -->
-  <img src="https://raw.githubusercontent.com/username/repository/branch/assets/icon2.png" alt="icon2" height="100px"/>
+  <img src="https://raw.githubusercontent.com/username/repository/branch/assets/icon2.svg" alt="icon2" height="100px"/>
 </p>
 
 <table align="center" border="1" cellpadding="10" cellspacing="0">
