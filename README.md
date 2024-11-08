@@ -41,15 +41,35 @@
 </p>
 <br>
 
-<h3 align="center">My Github Stats</h3>
+<h3 align="left">My Github Stats</h3>
+
 <br>
-<p align="center">
-  <a href="https://github.com/muhammadammarfaris">
-    <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadammarfaris&&theme=tokyonight" alt="muhammadammarfaris"/>
-    <img height="169em" src="https://github-readme-stats.vercel.app/api?username=muhammadammarfaris&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muhammadammarfaris"/>
-  </a>
-</p>
+
+<table align="center" border="1" cellpadding="10" cellspacing="0">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/muhammadammarfaris">
+        <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadammarfaris&&theme=tokyonight" alt="muhammadammarfaris"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/muhammadammarfaris">
+        <img height="169em" src="https://github-readme-stats.vercel.app/api?username=muhammadammarfaris&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muhammadammarfaris"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadammarfaris&layout=compact&theme=tokyonight" alt="Top Languages"/>
+    </td>
+    <td align="center">
+      <img src="https://activity-graph.herokuapp.com/graph?username=muhammadammarfaris&theme=tokyonight" alt="Contribution Graph"/>
+    </td>
+  </tr>
+</table>
 <br>
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
