@@ -2,14 +2,14 @@ name: WakaTime Readme
 
 on:
   schedule:
-    - cron: '0 20 * * *'
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@bf77971f-6c8d-4a6b-92ea-bd0806cab7bb
+      - uses: athul/waka-readme@master
         with:
           API_BASE_URL: ${{ secrets.WAKAPI_BASE_URL }}
           WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
