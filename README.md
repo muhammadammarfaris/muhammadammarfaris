@@ -1,10 +1,4 @@
-<p align="center">
-  <!-- Ikon Pertama -->
-  <img src="https://raw.githubusercontent.com/username/repository/branch/assets/icon1.svg" alt="icon1" height="100px"/>
-
-  <!-- Ikon Kedua -->
-  <img src="https://raw.githubusercontent.com/username/repository/branch/assets/icon2.svg" alt="icon2" height="100px"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=figma,github,postman,java,dart,flutter,php,laravel,html,css,js,tailwind,react,nextjs)](https://skillicons.dev)
 
 <table align="center" border="1" cellpadding="10" cellspacing="0">
   <tr>
