@@ -58,14 +58,6 @@
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadammarfaris&layout=compact&theme=tokyonight" alt="Top Languages"/>
-    </td>
-    <td align="center">
-      <img src="https://activity-graph.herokuapp.com/graph?username=muhammadammarfaris&theme=tokyonight" alt="Contribution Graph"/>
-    </td>
-  </tr>
 </table>
 <br>
 
