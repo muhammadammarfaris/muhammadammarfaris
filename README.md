@@ -5,7 +5,11 @@
 
 <hr>
 
-<p align="center">Connect With Me</p>
+<br>
+
+<h3 align="center">Connect With Me</h3>
+
+<br>
 <p align="center">
   <a target="_blank" href="https://www.linkedin.com/in/ammar-faris-fauzi-339260295/"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=Linkedin&logoColor=0077B5"></a>
   <a target="_blank" href="https://open.spotify.com/user/31zc2a4hozn3awzskii3xce6b5xq?si=a64484a08ffb4cea"><img src="https://img.shields.io/badge/Spotify-000000?style=for-the-badge&logo=spotify&logoColor=1ED760"></a>
@@ -16,9 +20,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,dart,laravel,flutter,vscode,figma,github,mint)](https://skillicons.dev)
 
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=muhammadammarfaris&theme=codeSTACKr&no-frame=false&no-bg=true&margin-w=1" alt="GitHub Trophy" width="600"/>
-</p>
+<br>
 
 <table align="center" border="1" cellpadding="10" cellspacing="0">
   <tr>
