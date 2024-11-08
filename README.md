@@ -62,7 +62,8 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadammarfaris&layout=compact&theme=tokyonight" alt="Top Languages"/></td>
+    <td><img src="https://github.com/muhammadammarfaris">
+    <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadammarfaris&&theme=tokyonight"/></td>
     <td><img src="https://activity-graph.herokuapp.com/graph?username=muhammadammarfaris&theme=tokyonight" alt="Contribution Graph"/></td>
   </tr>
 </table>
