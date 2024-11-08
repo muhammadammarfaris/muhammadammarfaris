@@ -7,6 +7,12 @@
 
 <br>
 
+<div align="center">
+  <img src="https://media1.tenor.com/m/5EnGWzMZkVsAAAAC/studying-reading.gif/?username=muhammadammarfaris&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadammarfaris" width="800" />
+</div>
+
+<hr>
+
 <h3 align="center">Connect With Me</h3>
 
 <br>
@@ -16,14 +22,16 @@
   <a target="_blank" href="https://dribbble.com/Shion12"><img src="https://img.shields.io/badge/Dribbble-000000?style=for-the-badge&logo=dribbble&logoColor=EA4C89"></a>
   <a target="_blank" href="https://www.instagram.com/onekebabplease._/?utm_source=ig_web_button_share_sheet"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F"></a>
 </p>
+
+<br>
+
+
+
 <br>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,dart,laravel,flutter,vscode,figma,github,mint" alt="My Skills">
-  </a>
+  <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,java,dart,laravel,flutter,vscode,figma,github,mint" alt="My Skills"> </a>
 </p>
-
 
 <br>
 
@@ -42,4 +50,3 @@
   </tr>
 </table>
 <br>
-
