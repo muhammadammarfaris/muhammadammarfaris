@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=figma,github,postman,java,dart,flutter,php,laravel,html,css,js,tailwind,react,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma,github,postman,java,dart,flutter,php,laravel,tailwind,react,nextjs)](https://skillicons.dev)
 
 <table align="center" border="1" cellpadding="10" cellspacing="0">
   <tr>
