@@ -9,7 +9,7 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: muhammadammarfaris/waka-readme@master
+      - uses: muhammadammarfaris/waka-readme@main
         with:
           API_BASE_URL: ${{ secrets.WAKAPI_BASE_URL }}
           WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
