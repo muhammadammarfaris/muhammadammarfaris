@@ -1,4 +1,4 @@
-<h3 align="left">My Github Stats</h3>
+<h3 align="left">⚡My github stats</h3>
 
 <br>
 
