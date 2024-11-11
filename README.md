@@ -1,9 +1,9 @@
 <!-- BLOG-POST-LIST:START -->
-- [Python + Nix Flakes + Containers](https://blog.athulcyriac.in/blog/docker-nix-python/)
-- [Yearly Review 2023](https://blog.athulcyriac.in/blog/2023/)
-- [For Abraham, forever ago](https://blog.athulcyriac.in/blog/abraham/)
-- [20 → 22](https://blog.athulcyriac.in/blog/20-and-22/)
-- [The Purpose of being Purposeless](https://blog.athulcyriac.in/blog/purpose/)
+Python          29 hrs 27 mins  🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.35 %
+Rust            25 hrs 10 mins  🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   17.39 %
+Markdown        17 hrs 17 mins  🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.94 %
+Typst           11 hrs 59 mins  🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.28 %
+TeX             10 hrs 31 mins  🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.27 %
 <!-- BLOG-POST-LIST:END -->
 
 
