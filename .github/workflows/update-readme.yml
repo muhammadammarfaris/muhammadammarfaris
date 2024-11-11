@@ -1,24 +1,38 @@
-# This is a basic workflow to help you get started with Actions
+name: WakaTime Stats Update
 
-name: Waka Readme
-
-# Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the master branch
 on:
-  push:
-    branches:
-      - master
-  workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
-    - cron: '0 0 * * *'
+    - cron: '0 * * * *'  # Update every hour
+  workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Update README with WakaTime Stats
     runs-on: ubuntu-latest
+
     steps:
-      - uses: athul/waka-readme@master
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Update WakaTime Stats in README
+        uses: athul/waka-readme@master
         with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-            
+          API_BASE_URL: "https://wakatime.com/api"
+          SHOW_TITLE: false
+          SECTION_NAME: waka
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 5
+          SHOW_TIME: true
+          SHOW_TOTAL: false
+          SHOW_MASKED_TIME: false
+          STOP_AT_OTHER: false
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Updated waka-readme graph with new metrics"
+          git push
