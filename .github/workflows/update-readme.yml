@@ -1,24 +1,19 @@
-# This is a basic workflow to help you get started with Actions
+name: WakaTime Readme
 
-name: Waka Readme
-
-# Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the master branch
 on:
-  push:
-    branches:
-      - master
-  workflow_dispatch:
   schedule:
-    # Runs at 12am UTC
-    - cron: '0 0 * * *'
+    - cron: '0 20 * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Update this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: muhammadammarfaris/waka-readme@master
+      - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-        
+          API_BASE_URL: ${{ secrets.WAKAPI_BASE_URL }}
+          WAKATIME_API_KEY: ${{ secrets.WAKAPI_API_KEY }}
+          COMMIT_MESSAGE: Update Wakapi stats
+          BLOCKS: "⬜🟨🟩"
+          TIME_RANGE: last_30_days
+          SHOW_TIME: true
