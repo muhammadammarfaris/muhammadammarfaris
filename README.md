@@ -1,7 +1,5 @@
 <h3 align="left">⚡My github stats</h3>
 
-<br>
-
 <table align="center" border="1" cellpadding="10" cellspacing="0">
   <tr>
     <td align="center">
