@@ -1,3 +1,6 @@
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,java,dart,laravel,flutter,figma,vscode,stackoverflow,mint)](https://skillicons.dev)
+
 <h3 align="left">⚡My github stats</h3>
 
 <table align="center" border="1" cellpadding="10" cellspacing="0">
