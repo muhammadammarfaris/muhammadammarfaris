@@ -6,5 +6,4 @@
 - [The Purpose of being Purposeless](https://blog.athulcyriac.in/blog/purpose/)
 <!-- BLOG-POST-LIST:END -->
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=muhammadammarfaris)
 
