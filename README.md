@@ -16,7 +16,6 @@
     </td>
   </tr>
 </table>
-<br>
 
 ### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
 
