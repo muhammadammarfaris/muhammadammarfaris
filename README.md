@@ -1,1 +1,1 @@
-![Github Stats](https://pixel-profile-ui.vercel.app/api/github-stats?username=muhammadammarfaris&screen_effect=true&include_all_commits=true&pixelate_avatar=false&theme=road_trip&color=%23ffffffFF)
+![Github Stats](https://pixel-profile-ui.vercel.app/api/github-stats?username=muhammadammarfaris&screen_effect=true&include_all_commits=true&pixelate_avatar=false&background=linear-gradient%28110deg%2C+%23313638FF+100%25%2C+%23ffffffFF+88%25%29+&color=%23ffffffFF)
