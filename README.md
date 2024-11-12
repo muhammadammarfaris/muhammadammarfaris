@@ -34,8 +34,11 @@
   <img height="169em" src="https://github-readme-stats.vercel.app/api?username=muhammadammarfaris&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="muhammadammarfaris"/>
 </a>
 
+<br>
 
 ### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
+
+<br>
 
 <!--START_SECTION:waka-->
 
