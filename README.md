@@ -6,7 +6,7 @@
 <details>
   <summary>🏆GitHub Throphies</summary>
   <br>
-  <a href=""><img src="https://github-profile-trophy.vercel.app/?username=muhammadammarfaris&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR"/></a>
+  <a href=""><img src="https://github-profile-trophy.vercel.app/?username=muhammadammarfaris&theme=onestar&title=MultiLanguage,Stars,Commit,Followers,Repo,PR,Issue"/></a>
 </details>
   
 <br>
@@ -15,7 +15,7 @@
   <summary>:bar_chart: Coding time in the last month</summary>
 <br>
 
-  <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 
 ```txt
 Dart          9 hrs 8 mins    🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜⬜   89.46 %
