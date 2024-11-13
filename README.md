@@ -3,7 +3,7 @@
 <details>
   <summary>🏆GitHub Throphies</summary>
   <br>
-  <a href=""><img src="https://github-profile-trophy.vercel.app/?username=muhammadammarfaris&theme=onestar&title=MultiLanguage,Stars,Commit,Followers,Repo,Experience,Pr,Issue&margin-w=15&margin-h=15"/></a>
+  <a href=""><img src="https://github-profile-trophy.vercel.app/?username=muhammadammarfaris&theme=onestar&title=MultiLanguage,Stars,Commit,Followers,Repo,Experience,Pr,Issue&margin-w=40&margin-h=40"/></a>
 </details>
   
 <br>
