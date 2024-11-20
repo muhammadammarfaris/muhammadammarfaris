@@ -5,15 +5,6 @@
   [![Spotify](https://novatorem-muhammadammarfaris22.vercel.app/api/spotify?border_color=ffffff)](https://open.spotify.com/user/31zc2a4hozn3awzskii3xce6b5xq?si=b09ca50a7fef4f4f)
 </div>
 
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31zc2a4hozn3awzskii3xce6b5xq?si=b09ca50a7fef4f4f">
-    <img src="https://novatorem-muhammadammarfaris22.vercel.app/api/spotify?border_color=ffffff" 
-         alt="Spotify Now Playing" 
-         onerror="this.src='https://via.placeholder.com/540x180?text=Spotify+Not+Active';" />
-  </a>
-</div>
-
 <br>
 
 <details>
