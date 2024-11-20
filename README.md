@@ -20,7 +20,13 @@
 [![Spotify](https://novatorem-muhammadammarfaris22.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 
 
-### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
+<h3>⚡ Languages and Tools:</h3>
+
+<br>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,py,laravel,flutter,dart,vscode,figma,mysql,postman,powershell,stackoverflow,github,mint)](https://skillicons.dev)
+
+### :bar_chart: Coding time in the last month
 
 <br>
 
@@ -35,3 +41,5 @@ PHP               20 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ```
 
 <!--END_SECTION:waka-->
+
+
