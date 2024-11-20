@@ -24,7 +24,7 @@
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,py,laravel,flutter,dart,vscode,figma,mysql,postman,powershell,stackoverflow,github,mint)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,py,laravel,flutter,dart,vscode,figma,mysql,postman,stackoverflow,github,mint)](https://skillicons.dev)
 
 ### :bar_chart: Coding time in the last month
 
