@@ -13,6 +13,17 @@
 
 ---
 
+<h3>🎧 Music I'm Vibing To</h3>
+
+<br>
+
+[![Spotify](https://novatorem-muhammadammarfaris22.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+
+
+### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
+
+<br>
+
 <!--START_SECTION:waka-->
 
 ```txt
