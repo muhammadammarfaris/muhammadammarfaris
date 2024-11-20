@@ -13,7 +13,7 @@
 
 ---
 
-<h3>🎧 Music I'm Vibing To</h3>
+<h3>🎧 Now Playing</h3>
 
 <br>
 
