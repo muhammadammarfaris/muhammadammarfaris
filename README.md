@@ -5,22 +5,6 @@
 | [![Spotify](https://novatorem-muhammadammarfaris22.vercel.app/api/spotify?border_color=ffffff)](https://open.spotify.com/user/31zc2a4hozn3awzskii3xce6b5xq?si=b09ca50a7fef4f4f) | <img src="https://media.tenor.com/ZZu2QC-efdUAAAAi/cute-cat-white.gif" /> |
 |--------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------|
 
-</div>
-
-<br>
-
-<details>
-  <summary>🏆GitHub Trophies</summary>
-  <br>
-  <a href=""><img src="https://github-profile-trophy.vercel.app/?username=muhammadammarfaris&theme=onestar&title=MultiLanguage,Stars,Commit,Followers,Repo,Experience,Pr,Issue&margin-w=20&margin-h=20"/></a>
-</details>
-  
-<br>
-  
-<details>
-  <summary>:bar_chart: Coding time in the last month</summary>
-<br>
-
 <!--START_SECTION:waka-->
 
 ```txt
@@ -32,4 +16,3 @@ PHP               20 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 ```
 
 <!--END_SECTION:waka-->
-</details>
