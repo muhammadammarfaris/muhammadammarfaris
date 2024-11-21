@@ -9,7 +9,7 @@
 - ✨ Student  /ᐠ｡ꞈ｡ᐟ\
 - 🌱 I’m currently learning Python.
 - 📫 How to reach farisfauzi444@gmail.com
-- ⚡ Fun Fact Octopuses have three hearts.
+- ⚡ Fun Fact I like all kinds of coffee drinks
 
 ---
 
