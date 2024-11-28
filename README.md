@@ -12,16 +12,31 @@
 - ⚡ Fun Fact I like all kinds of coffee drinks
 
 ---
+<br />
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ammar-faris-fauzi-339260295/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" />
+  </a>
+  <a href="https://www.instagram.com/ashitaka_918/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" />
+  </a>
+  <a href="https://dribbble.com/Shion12" target="_blank">
+    <img alt="Dribbble" src="https://img.shields.io/badge/Dribbble-000?style=for-the-badge&logo=dribbble&logoColor=EA4C89" />
+  </a>
+</p>
+
+<br />
 
 <h3>🎧 Now Playing</h3>
 
-<br>
+<br />
 
 [![Spotify](https://novatorem-muhammadammarfaris22.vercel.app/api/spotify?background_color=0d1117&show_offline&border_color=ffffff)](https://open.spotify.com/user/31zc2a4hozn3awzskii3xce6b5xq?si=96706891c1af4af4)
 
 <h3>⚡ Languages and Tools:</h3>
 
-<br>
+<br />
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,py,laravel,flutter,dart,vscode,figma,mysql,postman,stackoverflow,github,mint)](https://skillicons.dev)
 
