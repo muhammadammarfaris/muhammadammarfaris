@@ -13,7 +13,7 @@
 
 ---
 
-<h3>🎧 Now Playing</h3>
+<h3>🎧 Now Playin</h3>
 
 <br>
 
