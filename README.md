@@ -11,10 +11,10 @@
 - 📫 How to reach farisfauzi444@gmail.com
 - ⚡ Fun Fact I like all kinds of coffee drinks
 
----
+<h4 align="left">Connect with me</h4>
 <br />
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/ammar-faris-fauzi-339260295/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" />
   </a>
@@ -26,7 +26,8 @@
   </a>
 </p>
 
-<br />
+
+---
 
 <h3>🎧 Now Playing</h3>
 
