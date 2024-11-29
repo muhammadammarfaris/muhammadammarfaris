@@ -11,7 +11,7 @@
 - 📫 How to reach farisfauzi444@gmail.com
 - ⚡ Fun Fact I like all kinds of coffee drinks
 
-<h4 align="left">Connect with m</h4>
+<h4 align="left">Connect with me</h4>
 <br />
 
 <p>
