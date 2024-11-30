@@ -16,6 +16,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram&logoColor=%23E4405F)](https://www.instagram.com/onekebabplease._/?utm_source=ig_web_button_share_sheet)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=%230077B5)](https://www.linkedin.com/in/ammar-faris-fauzi-339260295/)
 [![Dribbble](https://img.shields.io/badge/Dribbble-black?style=for-the-badge&logo=Dribbble&logoColor=%23EA4C89)](https://dribbble.com/Shion12)
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-black?style=for-the-badge&logo=StackOverflow&logoColor=%23F58025)](https://stackoverflow.com/users/23469684/faris-fauzi)
 
 
 ---
