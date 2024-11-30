@@ -12,7 +12,6 @@
 - ⚡ Fun Fact I like all kinds of coffee drinks
 
 <h4 align="left">Lets connect with me</h4>
-<br />
 
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram&logoColor=%23E4405F)](https://www.instagram.com/onekebabplease._/?utm_source=ig_web_button_share_sheet)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=%230077B5)](https://www.linkedin.com/in/ammar-faris-fauzi-339260295/)
