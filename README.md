@@ -11,20 +11,12 @@
 - 📫 How to reach farisfauzi444@gmail.com
 - ⚡ Fun Fact I like all kinds of coffee drinks
 
-<h4 align="left">Connect with me</h4>
+<h4 align="left">Lets connect with me</h4>
 <br />
 
-<p>
-  <a href="https://www.linkedin.com/in/ammar-faris-fauzi-339260295/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" />
-  </a>
-  <a href="https://www.instagram.com/ashitaka_918/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" />
-  </a>
-  <a href="https://dribbble.com/Shion12" target="_blank">
-    <img alt="Dribbble" src="https://img.shields.io/badge/Dribbble-000?style=for-the-badge&logo=dribbble&logoColor=EA4C89" />
-  </a>
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=Instagram&logoColor=%23E4405F)](https://www.instagram.com/onekebabplease._/?utm_source=ig_web_button_share_sheet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=%230077B5)](https://www.linkedin.com/in/ammar-faris-fauzi-339260295/)
+[![Dribbble](https://img.shields.io/badge/Dribbble-black?style=for-the-badge&logo=Dribbble&logoColor=%23EA4C89)](https://dribbble.com/Shion12)
 
 
 ---
