@@ -18,7 +18,6 @@
 [![Dribbble](https://img.shields.io/badge/Dribbble-black?style=for-the-badge&logo=Dribbble&logoColor=%23EA4C89)](https://dribbble.com/Shion12)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-black?style=for-the-badge&logo=StackOverflow&logoColor=%23F58025)](https://stackoverflow.com/users/23469684/faris-fauzi)
 
-
 ---
 
 <h3>🎧 Now Playing</h3>
@@ -32,7 +31,6 @@
 <br />
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,py,laravel,flutter,dart,vscode,figma,firebase,postman,stackoverflow,github,mint)](https://skillicons.dev)
-
 
 ### :bar_chart: Coding time in the last month
 
