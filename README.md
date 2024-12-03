@@ -32,7 +32,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,java,py,laravel,flutter,dart,vscode,figma,firebase,postman,stackoverflow,github,mint)](https://skillicons.dev)
 
-### :bar_chart: Coding time in the last month
+<h3>⏲️ This week I spent time on...</h3>
 
 <br>
 
