@@ -8,7 +8,7 @@
 
 - ✨ Student  /ᐠ｡ꞈ｡ᐟ\
 - 🌱 I’m currently learning Python.
-- 📫 How to reach farisfauzi444@gmail.com
+- 📫 How to reach farisfauzi444@gmail.co
 - ⚡ Fun Fact I like all kinds of coffee drinks
 
 <h4 align="left">Lets connect with me</h4>
